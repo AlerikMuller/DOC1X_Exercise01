@@ -1,0 +1,10 @@
+public class control3 {
+
+    public static void main(String[] args) {
+        System.out.println("I am Danish");
+    }
+
+    public ObjectFactory objectFactory() {
+        return new ObjectFactory();
+    }
+}
